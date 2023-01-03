@@ -8,4 +8,4 @@ I'm making this.
 
 - [MSYS2 libraries meta package](https://github.com/IAX86/msys2-libraries-meta)
 - [MSYS2 base-devel meta package](https://github.com/IAX86/msys2-base-devel-meta)
-- [Open Binary License \(Beta Release\)](https://github.com/IAX86/Open-Binary-License)
+- [Open Binary License \(Beta Release\)](https://github.com/IAX86/Open-Binary-License/tree/Mainline)
